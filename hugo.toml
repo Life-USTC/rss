@@ -1,7 +1,8 @@
-baseURL = 'https://xzkd-project.github.io/rss'
+baseURL = 'https://rss.life-ustc.tiankaima.dev'
 languageCode = 'en-us'
-title = 'RSS site for xzkd-project'
+title = 'RSS site for Life @ USTC'
 theme = "papermod"
-[taxonomies]
+
+ [taxonomies]
    tag = "tags"
    category = "categories"
